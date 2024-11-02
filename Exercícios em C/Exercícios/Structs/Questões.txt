@@ -1,0 +1,29 @@
+FEITO
+Questão 1: Cálculo da área de um retângulo
+Crie um programa que declare uma struct chamada Retangulo com os campos base e altura.
+O programa deve ler esses valores para dois retângulos diferentes, calcular a área de ambos e imprimir o maior valor.
+
+Questão 2: Média de notas de alunos
+Crie uma struct chamada Aluno que armazene o nome e três notas de um aluno. O programa deve:
+Ler os dados de 3 alunos.
+Calcular a média das três notas de cada aluno.
+Exibir o nome do aluno com a maior média.
+
+Questão 3: Cadastro de livros
+Crie uma struct chamada Livro que contenha o nome do livro, o autor e o ano de publicação. O programa deve:
+Ler os dados de 5 livros.
+Exibir o nome do livro mais antigo (o de menor ano de publicação).
+
+Questão 4: Cálculo da distância entre dois pontos
+Crie uma struct chamada Ponto que contenha as coordenadas x e y de um ponto. O programa deve:
+Ler as coordenadas de dois pontos.
+Calcular e exibir a distância entre os dois pontos (use a fórmula da distância Euclidiana).
+
+Questão 5: Cadastro de veículos
+Crie uma struct chamada Veiculo que contenha a marca, o modelo e o ano de fabricação. O programa deve:
+Ler os dados de 4 veículos.
+Exibir o veículo mais novo (com o maior ano de fabricação).
+
+Dicas:
+Use funções para separar a lógica, como uma função para leitura, outra para cálculos e outra para exibição de resultados.
+Faça uso de loops para evitar repetição de código na coleta de dados.
