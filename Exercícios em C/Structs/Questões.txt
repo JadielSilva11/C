@@ -3,6 +3,7 @@ Questão 1: Cálculo da área de um retângulo
 Crie um programa que declare uma struct chamada Retangulo com os campos base e altura.
 O programa deve ler esses valores para dois retângulos diferentes, calcular a área de ambos e imprimir o maior valor.
 
+FEITO
 Questão 2: Média de notas de alunos
 Crie uma struct chamada Aluno que armazene o nome e três notas de um aluno. O programa deve:
 Ler os dados de 3 alunos.
