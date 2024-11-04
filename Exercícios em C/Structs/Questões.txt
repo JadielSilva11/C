@@ -10,6 +10,7 @@ Ler os dados de 3 alunos.
 Calcular a média das três notas de cada aluno.
 Exibir o nome do aluno com a maior média.
 
+FEITO
 Questão 3: Cadastro de livros
 Crie uma struct chamada Livro que contenha o nome do livro, o autor e o ano de publicação. O programa deve:
 Ler os dados de 5 livros.
