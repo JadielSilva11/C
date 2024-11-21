@@ -22,6 +22,7 @@ Crie uma struct chamada Ponto que contenha as coordenadas x e y de um ponto. O p
 Ler as coordenadas de dois pontos.
 Calcular e exibir a distância entre os dois pontos (use a fórmula da distância Euclidiana).
 
+FEITO
 Questão 5: Cadastro de veículos
 Crie uma struct chamada Veiculo que contenha a marca, o modelo e o ano de fabricação. O programa deve:
 Ler os dados de 4 veículos.
